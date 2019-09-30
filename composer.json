@@ -1,0 +1,19 @@
+{
+    "name": "alex/test_project",
+    "description": "beejee test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "Alex_Somkin@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Application\\": ""
+        }
+    }
+}
